@@ -19,7 +19,7 @@ print(c.name, c.email, s.name, s.email)
 
 print(c.all_contacts)
 print(s.all_contacts)
-print(s.order("I need pu"))
+print(s.order("Bike"))
 
 for x in c.all_contacts:
     print()

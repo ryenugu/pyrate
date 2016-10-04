@@ -1,4 +1,5 @@
-'counts the number of words in a string'
+"""counts the number of words in a string'
+"""
 
 
 def word_counter(s):
